@@ -1,5 +1,6 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/g3n0o3xo8vx9r5ud?svg=true)](https://ci.appveyor.com/project/BudTon/mocking-test)
 
 ## Mocking (задача со звёздочкой)
 
